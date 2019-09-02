@@ -1,0 +1,23 @@
+{
+  "name": "js-profesional",
+  "version": "1.0.0",
+  "description": "Curso profesional de JS en platzi",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielpqe/js-profesional.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/danielpqe/js-profesional/issues"
+  },
+  "homepage": "https://github.com/danielpqe/js-profesional#readme",
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
