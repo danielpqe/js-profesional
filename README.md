@@ -17,3 +17,4 @@ Curso profesional de JS en platzi
 - **TypeScript**
 - **patrones de diseño**
 - **Proyecto**
+
